@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchy&layout=compact&theme=dark&show)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Proximity-Covid19&theme=dark&show)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Proximity-Covid-19&theme=dark&show)
 
 
 
