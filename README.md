@@ -10,5 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&count_private=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&show_icons=true)
+
 
