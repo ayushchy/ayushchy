@@ -11,5 +11,7 @@
 - ⚡ Fun fact: ...
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&show_icons=true)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&show_icons=true&theme=vue-dark)
+
 
 
