@@ -12,7 +12,7 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&theme=dark&show_icons=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Proximity-Covid-19&theme=dark&show)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Proximity-Covid-19&theme=dark&show) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Route-NetCom9&theme=dark&show)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchy&layout=compact&theme=dark&show)
 
