@@ -12,9 +12,9 @@
 
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchy&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchy&layout=compact&theme=dark&show)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Route-Netcom&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayushchy&repo=Route-Netcom&theme=dark&show)]
 
 
 
