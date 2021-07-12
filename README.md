@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy)](https://github.com/anuraghazra/github-readme-stats)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushchy&count_private=true)
+
