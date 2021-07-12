@@ -16,6 +16,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchy&layout=compact&theme=dark&show)
 
+![](https://komarev.com/ghpvc/?username=ayushchy&color=green)
+
+
 
 
 
